@@ -1,0 +1,23 @@
+ANN
+R^2 value: -2.176618296519961
+Mean Absolute Error: 6.910173029391323
+Mean Squared Error: 75.58397402119544
+Root Mean Squared Error: 8.69390441753275
+
+DTR
+R^2 value: -15.32776322457282
+Mean Absolute Error: 8.25620986285991
+Mean Squared Error: 388.5003221011283
+Root Mean Squared Error: 19.710411515265942
+
+RFR
+R^2 value: -0.29671837323063555
+Mean Absolute Error: 3.9824605133859077
+Mean Squared Error: 30.853920328559468
+Root Mean Squared Error: 5.554630530337681
+
+SVR
+R^2 value: -1.7717261823208394
+Mean Absolute Error: 6.297889851464268
+Mean Squared Error: 65.95003245681556
+Root Mean Squared Error: 8.120962532656801
